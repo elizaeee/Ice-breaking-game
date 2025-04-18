@@ -30,7 +30,8 @@ An interactive, turn-based icebreaker game that helps groups of people get to kn
 
 ## 📸 Preview
 
-![Game Preview](./preview.png)
+![Game Preview](https://elizaeee.github.io/Ice-breaking-game/)
+
 
 ---
 
