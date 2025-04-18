@@ -47,6 +47,7 @@ cd Ice-breaking-game
 npm install
 npm run dev
 
+---
 
 Copyright © 2025 Eliza Chen
 
