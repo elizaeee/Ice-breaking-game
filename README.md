@@ -46,7 +46,7 @@ git clone https://github.com/elizaeee/Ice-breaking-game.git
 cd Ice-breaking-game
 npm install
 npm run dev
-
+```bash
 ---
 
 Copyright © 2025 Eliza Chen
