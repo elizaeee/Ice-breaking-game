@@ -26,12 +26,6 @@ An interactive, turn-based icebreaker game that helps groups of people get to kn
 | ⏱️ **Rule 3** | Lose 5 points for skipping questions |
 | 🎮 **Rule 4** | Use 15 points to delegate questions to other players |
 
----
-
-## 📸 Preview
-
-![Game Preview](https://elizaeee.github.io/Ice-breaking-game/)
-
 
 ---
 
